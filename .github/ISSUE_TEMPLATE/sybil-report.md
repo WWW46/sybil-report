@@ -1,16 +1,669 @@
----
-name: Sybil Report
-about: Report Sybil Activity on LayerZero
-title: "[Sybil Report]"
-labels: under review
-assignees: LayerZero-GH
+Reported Addresses
+All these wallets were found by manually checking the scanner.
+then I opened each wallet through Debank and checked for the same transactions. Before each cluster there will be a description of which networks you should look at to make sure it's a sybil. All the addresses I send transactions are the same, the amounts are the same, the time is the same, the protocols are the same.
+There are clusters where everything is identical and there are clusters where some networks are different but the less popular ones such as ARB NOVA, ERC-20, MoonBEAM, HARMONY, OP, ARB are all identical or 95%+.
+For your convenience I will send below part of the links from the cluster to Debank that you can easily open and look, and then you can check each address as well.
+P.s I did not send each address debit link, as I think it is not necessary, but if necessary, I can then add each address.
+Also if you open the link you should look at the dates, because sometimes other transactions are made, but if you look at certain transactions you can see that they were made one after another with an interval of a couple of minutes.
+P.s .s
+All addresses were found by hand while searching in OP Explorer.
+I hope my work was not in vain with love little sibyl hunter
 
----
+Now let's start with the largest clusters from 18-40 accounts
+Next cluster 2
 
-# Reported Addresses
+0x846b03370E18826c90a09D81BD47BEBC6C1CA8D6
+0x3B43670D37F34aD549D7699F6364FE46Ea1793BE
+0x0C8de496Ac2922AFd9D7a7C39C91a7c462CB57Fb
+0x67cF4e8331b949EDFBEFa2Ee78dDEBA0E4E4A5ba
+0xf20624F02c8DB04C7b012be8Da18f8bcA753F3d6
+0xCFb53C0AA94aa5A14cCe526ae811126958bB35Ac
+0xE27134a8053ead939a0FECe22D9C678FEB43416C
+0x4b0711Ab943015b468F5663a38Fcb590364A9a80
+0x476bec5D4e3485F170FDab94d374142953c14C7c
+0xc349553D7bb0e3e945e8999D66dBCE04a140679D
+0x8228E6e90aA36312dEC4f87db8743D5B37576E8D
+0xF1Ebd89054b48230484c90A56c0FaDC9592C8ed7
+0x138F5eb77b6245fFEfCBb4a4f34e429D57C71792
+0x109359f24f27f6157CEa6C5C705fCAd1b708DAf6
+0x4E7EEd196DF1E7C8f6E0516d8D55ff4D1585279F
+0x1FB8903aE6371619DfBEbfF36cC17a7B473e9a48
+0x080123b8cd7497df7EC76b3a76e8B5bb98376a58
+0x7806103EE7A22149a6852eb34b07a32139610afE
+0xD796d0a5AADc6cE967732e26fE9346A637bbA672
+0xee3dcf70b35c9cfaec4b1f44c4fa2d95e10cd53e
+0x323fd3bf193b38c54ec493a0f849044857df811d
+0x9ad01f91cb3371e06fca01fdd3c78283c1a128e6
+0x2794be0a017e6fc5b9f5c0c9e61f40c2277eb4b9
+0x59dbcedeff7687e7c2a579cc921ee5704e61384f
+0x9ed1b2eab06a960634a13652dc32bd60f36aa6a3
+0x33c9aad614b5fe6f06886679b8646d54cad7ceca
+0x0eb2d4686bd96ecd3d28fd9f3c6bd165723ac832
+0xd5223a3928a5cacdc461bed400c7e30984aed86f
+0x8360fbec0c2deb95bb7c89cd98765060aa443b73
+0x9b3cb8b43990d899ce2d1b3058d63e84e41e4750
+0x27cab1271f494699217800131616ffc8621b5663
+0xc1d023d1e0464b314677be788aa7676bd6425f3c
+0x514234baa66f35266ba2fc1a00e1a8e65930308b
+0x9570f1eef6dd70e53fbbdef98b51e88b38cc7025
+0x9a5712f3af99b4013a6559c5ca50d57c763914bf
+0x9fc77d208f9607f3c4edb552c4a5f619d7874174
+0xfd56bde66fbf9d92c6305429d1b6b410b1297636
+0x8dabdaa6c93455fe525f5d3f45113c3122c56079
 
-# Description
+There are many identical actions in this cluster of accounts, sequence, mint, in most networks.
+Here are links to 5 debunking addresses from this cluster in OP network.
+If you open them you will see the pattern that everything is the same.
+If you think this is not enough, open the ARB network.
+https://debank.com/profile/0x323fd3bf193b38c54ec493a0f849044857df811d/history?chain=op
+https://debank.com/profile/0x2794be0a017e6fc5b9f5c0c9e61f40c2277eb4b9/history?chain=op
+https://debank.com/profile/0x27cab1271f494699217800131616ffc8621b5663/history?chain=op
+https://debank.com/profile/0xc1d023d1e0464b314677be788aa7676bd6425f3c/history?chain=op
+https://debank.com/profile/0x9fc77d208f9607f3c4edb552c4a5f619d7874174/history?chain=op
 
-# Detailed Methodology & Walkthrough
+NEXT cluster 6
+0xEf9996417898507DD925e9DB00939f109FCc851E
+0xC9C5621F08620b7b50aAB7D70426ffC0f533Fa59
+0xa21DE2A6e2A80e17748f20784059455D0b541387
+0x1Db440F3C46C517072C172b183C966b3a68D0bE0
+0x9D910a254ec74ca97fDDD0e6B0b1e2E4c6268d2F
+0x73F498AEaf2feeAEEEf4B917BA225394313eF6ec
+0x3Ac6F649b5A3758Ca7ba085631a82C700ea319d6
+0x424aC08061DBcc3a2fd9fC9ec1d9BB5D9CaDabE4
+0x2d9F2afbA77909B53B9569f602448a38Fe7Ea986
+0xB9772456644e378e4556e7f5779270655e88B339
+0x5ACcC350f8fbCB8c83642B4DB74cf4f2dD1FffA9
+0x9D3e09172b59E5b8F41E3Bc85612849112Ce98CA
+0x7b2F4Bd6f8148c26172A93e6f82f1735098c6C9e
+0x37a0d07abC3ccC1f8460593Aed1FE9390bA49Bc3
+0x733136Cd41787Ea5712ff53016AB108358A28b63
+0x6c16619028747AB3fE4469EbAB20115c4b7622dE
+0x9b297cf5dA7c4902Fd0Bf79fdC72b0D9300BA549
+0x16679B41823dFa10A92BC822cC4f52c9d7EF2df0
+0xC7F6bB955c0e6C548daB6EAB52aCfA1cBEE24216
+0xb593fc7974a08Df2EC07Bb437F2bc76cC7B79100
 
-# Reward Address (If Eligible)
+There are a lot of similar actions in the networks.
+But in BEEVM everything is the same, sequence, operations, quantity, time.
+https://debank.com/profile/0xef9996417898507dd925e9db00939f109fcc851e/history?chain=bevm
+https://debank.com/profile/0xc9c5621f08620b7b50aab7d70426ffc0f533fa59/history?chain=bevm
+https://debank.com/profile/0x1db440f3c46c517072c172b183c966b3a68d0be0/history?chain=bevm
+https://debank.com/profile/0xb9772456644e378e4556e7f5779270655e88b339/history?chain=bevm
+https://debank.com/profile/0xb593fc7974a08df2ec07bb437f2bc76cc7b79100/history?chain=bevm
+
+NEXT cluster 7
+0x2792b5a5448588ca1f10a2d3354a185a97128a5b
+0xa9812fb56670fd5675adcae29943c554aa91415e
+0x6975e62dcaeeafcaa64432d9a45187c5a2d38344
+0x5ff2918ca2acac7d0b2eebb25fba6ef378953cb8
+0x9ab211d8b97610a9222c886ff07a12a92e939b16
+0xee4b7fa3019144f5ef0a1ebb618de896906bfa67
+0x7327a6f7c9dc1177192ee8a3dc4dd5947c173f16
+0xafcdd78cd570f56c4a8fba58d9b340d30104fdf0
+0xa21be34ef97d3d1a28eaecb869516fdd8c49543c
+0x900345d890a7f384da422ca79dc6be3e79537892
+0x4ea826da9409ba932ce6be9501c552e05381bd51
+0xcb8b64674c35a7155d9c1b26940fd021d148e1cd
+0x535bb3973640ac168e2850bf9a86ff734842736b
+0xb56207641d40855c9b5e6a0610d565d502590390
+0xd7a15a6921299a4da6612df9e98ca7b9b1fce322
+0xefd3d5d407738c9fddd17b71ec1d158496534ea7
+0x3155d2ce0af25e06e867e7bfde961bee2eee5a3b
+0x484edb2891f37f5dc63f575896f708bb021409e0
+0x04b9064726cc84b421a705d15f8b40dc36a20450
+0x638334bb9de365cd176aa327730c04797cd8337d
+0x47af26358fc8a231ba610376e9e74e3e812bd389
+0x2a5d631Fe8A9c38839e52404253fF0730B654F3a
+0xf6BF53DC1F515E3cde5DBc023246683551c99aA1
+0x6f38E7a958b9dd044d6202e562d90b207326e440
+0x2de170f8d9a7aF464DC62EeD84e3e9A8a1f80992
+0x6D2ab829d15aF406e8a0F71ba5c87e79bAFC890D
+0x598c5D167222126EdAE0CE568aadF57a2e2a695A
+0x2a85675fD5003E74b7F0B305a147f0054eD0BAAF
+0xc54dbff52D6e9f906Ee68031169C21011633603b
+
+There are a lot of similar actions in the networks.
+But in OP | KARAK | ARB NOVA everything is the same, sequence, operations, quantity, time.
+https://debank.com/profile/0x535bb3973640ac168e2850bf9a86ff734842736b/history?chain=op
+https://debank.com/profile/0xf6bf53dc1f515e3cde5dbc023246683551c99aa1/history?chain=op
+https://debank.com/profile/0x3155d2ce0af25e06e867e7bfde961bee2eee5a3b/history?chain=op
+https://debank.com/profile/0xd7a15a6921299a4da6612df9e98ca7b9b1fce322/history?chain=op
+https://debank.com/profile/0x4ea826da9409ba932ce6be9501c552e05381bd51/history?chain=op
+
+NEXT cluster 8
+0xBF291d762f90EBb20b7E3E2289C0587971Dba2f3
+0x58A77ee584Ec2481F4ca8CFAee84D35259f9d83D
+0x39489739f44907d6a042Ba7D586e8d8970aF83DC
+0x1D1100DCe3B9DF18614044A9B3796abc5a26eC84
+0x1CF171CA881940ebb32845DaaEf7c83d8ffB22A3
+0xE6E5f231b12DB16c8407c6e18c43e146320686Ef
+0x91740aBD0b6b8cfF99c760388cb2eBEe16d442Cb
+0x29Eb23879128f5166bA1Fea12C290F18816aB44c
+0x7A9eABDeEb7e6C74c10B097624c7a2D1F0Ffe9e6
+0x81674f1fcf903253410ed588fe4dca648b133062
+0xcee1c91e7d5f0ce985a99844251e0d0955efa63d
+0xf8C8cc31541A957e3EebD6439573909b8A3f5076
+0x94B72b3592F9EEE581A85CD60d284297A9c80157
+0x5c100Af61017df34249a8508b91FB553652D22ac
+0xC76C6006094EF227b75e8b1B31222B9f2eEfc56E
+0x7e957792dF2896d43D1d1290462541dE848c66d0
+0xdbeb376026656E047c4cA8f0AA0E0bc9DA4A55c4
+0xC8c661ed2ADba655896b014834Ed904BdE72fFEF
+
+There are a lot of similar actions in the networks.
+But in ZK|arb everything is the same, sequence, operations, quantity, time
+This cluster has a little randomisation but the sequence is the same
+https://debank.com/profile/0xdbeb376026656E047c4cA8f0AA0E0bc9DA4A55c4/history?chain=era
+https://debank.com/profile/0x7e957792dF2896d43D1d1290462541dE848c66d0/history?chain=era
+https://debank.com/profile/0x29eb23879128f5166ba1fea12c290f18816ab44c/history?chain=era
+https://debank.com/profile/0x1d1100dce3b9df18614044a9b3796abc5a26ec84/history?chain=era
+https://debank.com/profile/0x29eb23879128f5166ba1fea12c290f18816ab44c/history?chain=era
+
+There will be smaller clusters from this point onwards
+8 to 18 accounts, and they have the same transactions, times, amounts, networks, and protocols.
+After each of the clusters I will send links to the debunk and a description of which networks are identical.
+
+NEXT cluster 9
+0xada98d0a36f3d8d37ac7e4976c1cc200984d5dc8
+0xc64bc7fa878ba885fb2906d1c2cdbb016b88a7d4
+0x4501526e478e40f782474962a281d6c81814cf1f
+0x87ed1b679b1514e1721038edf1846d5d5f3c4895
+0xaffd168908308f83967bb60b912204bb269a4e11
+0x781b1e104fb26377e1efd8a81da11d144461f008
+0xf73a0d7517f27a0626918b8d2271164deeabc9a9
+0x5649cc052799135d86fcabaaf9450265b31e76b0
+0x850caea9a14f36cda2e8cecefefaf5a97e7e7b09
+
+In this cluster in the ZK Sync network the same transactions and also to be sure to check the arb network
+https://debank.com/profile/0xada98d0a36f3d8d37ac7e4976c1cc200984d5dc8/history?chain=era
+https://debank.com/profile/0x4501526e478e40f782474962a281d6c81814cf1f/history?chain=era
+https://debank.com/profile/0xaffd168908308f83967bb60b912204bb269a4e11/history?chain=era
+
+NEXT cluster 10
+0xe6678517ae998021e54314046cbdbde7f553de09
+0xe80cbe36bebd4720ab4ee19fb1bd315b44a27e2f
+0xf898542b4be47f7cd6b52fc69fea34a487544366
+0x954b9bc103a26550d213c27d06754c56376f27bb
+0xf7c2ff7171ab7a8467ac301684150d305bc63190
+0xcdbbb3c26743aaf83861211456030218b21a780e
+0x616eeb6966baa8b2a181bc07099d0753a1477f55
+0xf90ef89a889e24cbc8c51f1355be12d457e00a30
+0x0691a9463b30c568dcce66a5bdbf4f3bc974d7c1
+0xf6e2a55bf104ac5126857c81605f1ab73605a382
+0xd9392a22a6f7d9fa3d7a65d33e5956ad7538d2e3
+0x54a162dda6a54e1ac2565ec1b77f76cdee78f9a0
+0x8af9a952e4b04974e8846838125cc72ac4e691ba
+0x0239076f861c793dc08b81b2aca009203cbb0a59
+0x195a844dc101401f596b4af58a1e0aa9d9125405
+0xe660e9c877ea3cd4743868489a12a1eeb2ff8d5b
+
+In this cluster in the ARB NOVA network the same transactions and also to be sure to check the ERC-20 network
+https://debank.com/profile/0x616eeb6966baa8b2a181bc07099d0753a1477f55/history?chain=nova
+https://debank.com/profile/0xf7c2ff7171ab7a8467ac301684150d305bc63190/history?chain=nova
+https://debank.com/profile/0xe6678517ae998021e54314046cbdbde7f553de09/history?chain=nova
+
+NEXT cluster 11
+0x13b6742f9d2ab930b5412c5be8c3b38469c32ae4
+0xa290a6d937143652b044e860967189869dc63ca3
+0x43069b48b8a4af9b1c80f654a420fb48930a6272
+0xbf5b61882203d09f67c282442ab7486551fa179e
+0x4245a2a26c063a2abad002a895c18cfcdbad6d1c
+0x489ea8310cb3ecbdc6b0a2d876bc75b46f0efaf9
+0x614d4647657487179bbc5a7a67276fd160391455
+0x6d9852fafb37d36d1a259205dffb09cd7bd82dc7
+0x766970ac6bccdd1f003ad5c60335e6514ddd967d
+0xf03132118411720f9cf0671b19fd1695f8945089
+In this cluster in the ERC-20 network the same transactions and also to be sure to check the Scroll network
+https://debank.com/profile/0xbf5b61882203d09f67c282442ab7486551fa179e/history?chain=eth
+https://debank.com/profile/0x43069b48b8a4af9b1c80f654a420fb48930a6272/history?chain=eth
+https://debank.com/profile/0x766970ac6bccdd1f003ad5c60335e6514ddd967d/history?chain=eth
+
+NEXT cluster 12
+0x9fe77ac8a35b60cb6d7869e68e977c5ba42d20fa
+0xfd75a63fc495288dd1026ae39d8b51f45aefd0fd
+0x68cf6f7a3e9cb70fe38eca0c213a892998035b1b
+0x7ca440685380c8b3c9b241e1292979cf81d2eada
+0x182595536b54298b56277388e5917731aa7b4f9c
+0x30731c597854acd7184c6031a46dc89a54fdd3d1
+0xba90f54d0de2569c16b2decb48f7e16fde4c03b0
+0x136bff6e462acfcaeb2f90c8d1021e534922df57
+0xbf33caaca7bd24ecef9abb4bfbf6e1ea58836e4f
+In this cluster in the ERC-20 network the same transactions and also to be sure to check the ZK network
+IN zk Date same but different protocol
+https://debank.com/profile/0x7ca440685380c8b3c9b241e1292979cf81d2eada/history?chain=eth
+https://debank.com/profile/0xbf33caaca7bd24ecef9abb4bfbf6e1ea58836e4f/history?chain=eth
+https://debank.com/profile/0xba90f54d0de2569c16b2decb48f7e16fde4c03b0/history?chain=eth
+
+NEXT cluster 13
+0x9c794ae96bba92a94971d1efb85f0f6120c183be
+0x5960b69e78f1f0bbad5490cd38dbd433c47f884f
+0xcf1e5ee1351eb0ae5ca85aec09dc9527a89872d8
+0x5e14921cae899e1bd19e6b57a8f5cc1a15332d04
+0x856e6bf76b4a94036bba3cd4a7f531b52abfcac5
+0x3588794de113ebff3de825eff936fea6a544f03d
+0x9fe8019f1f590fc8844ede1e0d03b586dd04243a
+0xfd1a209f1c650d270a0bdb9b030fbd3f5efbb919
+0xfecda7a5c86c1be08c4bf92ef96cc49cec850a43
+In this cluster in the ERC-20 network the same transactions and also to be sure to check the arb network
+https://debank.com/profile/0xcf1e5ee1351eb0ae5ca85aec09dc9527a89872d8/history?chain=eth
+https://debank.com/profile/0x9c794ae96bba92a94971d1efb85f0f6120c183be/history?chain=eth
+https://debank.com/profile/0xfecda7a5c86c1be08c4bf92ef96cc49cec850a43/history?chain=eth
+
+NEXT cluster 14
+0x17969181aa9164c8401902332146fc17bef42cb9
+0xc67935f63d67f1d6d6bdeb9683f10b334a28943d
+0x81dd8481028d7c3a834fca990164915ebe989ca4
+0x9ddc4b16d2fb93e7a2b28933fdf238c344e4c040
+0xe0b78a41ac0544ca570aa8c9975be737d25bdd94
+0x393e0f44a6368a7c1a065f4c45c8734e9c9f77c6
+0xd21657b555800f45a86d5d5521c69d1d79f9b533
+0x44ed4862e6cb7c48fede105d9c3373ff3bbbee57
+0x2773f3a58602d1df960fd21af07c669cf6c426e4
+0x79e82e304d49177284403347897fc9afcc60faee
+0x00e91fa201f7f18a85e1ebec207831aee51c1a52
+0x07a69b08ab6ed3cd349fd5619559ccef102d0406
+0x8b2485d2ccc4ab2e189812df0475d253f36fa01a
+0x1d1b7e4c913a6da880f0737c2042e77aa002ffc9
+0xe295a28d21251477242577040a374c7e8c827bc5
+0xf532d87f66816dba07892a1d33e4862190fb4501
+0x9d24c1f60e6bba0d1132f13d1609d045bf503200
+0x25b64fdadab66772da485ba20a4eb2745dd429d1
+0x0a15897e90896b174097739c2c704b8a854ab734
+0x638adcf063b3d69af968ca5b003d8fe759898f8a
+0x0463338e8c84bac59e991ab09f8ca2618a826192
+0xdcdcefcacaffdd5275e365367504d7fa406b3729
+
+In this cluster in the ZK Sync network the same transactions and also protocol look linea
+https://debank.com/profile/0x638adcf063b3d69af968ca5b003d8fe759898f8a/history?chain=era
+https://debank.com/profile/0x81dd8481028d7c3a834fca990164915ebe989ca4/history?chain=era
+https://debank.com/profile/0x9ddc4b16d2fb93e7a2b28933fdf238c344e4c040/history?chain=era
+https://debank.com/profile/0x17969181aa9164c8401902332146fc17bef42cb9/history?chain=era
+
+NEXT cluster 15
+0x0D4953cF06E3e56Ffe0DFdb4578eF15414BA06C5
+0x2FFDeD295aE56e1E9e932A185b9724A446916D39
+0x24e384420135A198e40E38E8b7d80ca89D0F8Fde
+0xDd6f3792C604475810625AAf687f32a3BB33cBe1
+0x96efd21b6f32B8D40014320a0Eb9e9B9Da31b32C
+0x404765CC9bF1Cd47FC6c317D9856aE5E903D684E
+0xE1eAB82d14Fa0Fb9Ec9224a3dA494A5A710aBB9B
+0xCbe063a2b7f3197bD4B75125588AF193441Cfe2E
+0x6487b5F202A2B4417d488EC3aBA959E9010bF487
+0x15fC8cDc31C02dFBAC469411d7D9842873A691f2
+In this cluster in the ZK Sync network the same transactions and also protocol or look KARAK
+https://debank.com/profile/0x0D4953cF06E3e56Ffe0DFdb4578eF15414BA06C5/history?chain=era
+https://debank.com/profile/0xDd6f3792C604475810625AAf687f32a3BB33cBe1/history?chain=era
+https://debank.com/profile/0xCbe063a2b7f3197bD4B75125588AF193441Cfe2E/history?chain=era
+https://debank.com/profile/0x15fC8cDc31C02dFBAC469411d7D9842873A691f2/history?chain=era
+
+NEXT cluster 16
+0xA801b55704610eD0aCA597aEC1bfB3C812e07Ac6
+0x7C8921c5406bBf0B7d7441c15dafd50Dc0D8f0ae
+0xAA4B14D04b22B25ca43E049A0B42a80180D8E73c
+0x613BDFEcE40AE71c106651cC0b6BAD46616A842c
+0x21488fadB64739887C2f73a6d9e46F75FbB9dAa7
+0x5838587d7af9880a58CB5e96a5A2a29732d5353b
+0x5E1ff0d283c94c0768e82b5cac4D873893a01EC2
+0xA871B49dAB70144E10608C4553e75Bea1F1BEcbC
+0x51923Ef2f78562d51b2FdA53F890F2aadF8e82E4
+
+in this xlaster buy ens domain 02/01 and so on almost all wallets with a difference of 1-2 days and after go very similar transactions https://debank.com/profile/0x613bdfece40ae71c106651cc0b6bad46616a842c/history?chain=eth
+https://debank.com/profile/0x5838587d7af9880a58cb5e96a5a2a29732d5353b/history?chain=eth
+https://debank.com/profile/0xAA4B14D04b22B25ca43E049A0B42a80180D8E73c/history?chain=eth
+
+NEXT cluster 17
+0xaaB9F58F40C29b3f621794127Ca76C0243991906
+0xe15802887Ac40ECAd930587d64168757725c604e
+0x5F4d3d5DA5A93554fB85411c754Eed1507F8e61b
+0x42f53fC76eb2d04270A12EAD2b823B8C659061e2
+0x66d8EDC5B3D31b24cA31cf50200471767DDD639f
+0xB1749f16349020e12a1931AE932F4Cf948F6dfa6
+0xde41292286ED0E0EaDCED2a648aA483Fb6D69F28
+0x3851643B66ADa48dAd667b29c5824d75Eb2bF292
+0x8D41640C4cA15979ee1f3b41af69B82AE180a958
+0x8227FE18933962D6aEE3bA7F314F92d2F1912761
+0x06499E31389f3151371B245fAB326d494aE9f621
+0x6c1115667a7664EF6b91a16d396DdC95597047d0
+0x6A3Ebf9f11a434b84fF53dcB3614c4A2c5ac25Da
+0x7e3123A9833876108c6e15ee10bA0De643174C96
+0xEC1a8c78Fc2B5C203A202F75e3A6621991E3EeC6
+0x42f53fC76eb2d04270A12EAD2b823B8C659061e2
+
+In this cluster in the ERC-20 network the same transactions and also protocol or look BASE
+https://debank.com/profile/0xde41292286ED0E0EaDCED2a648aA483Fb6D69F28/history?chain=eth
+https://debank.com/profile/0x6c1115667a7664EF6b91a16d396DdC95597047d0/history?chain=eth
+https://debank.com/profile/0x8D41640C4cA15979ee1f3b41af69B82AE180a958/history?chain=eth
+
+NEXT cluster 18
+0xFB6F9b2aB046695b5E2E1dADDb1459603108dda7
+0x8D4137F7DdD30222af31534555c11Ea88D31aF72
+0x3cc43eC7B369D09711736f6D031F0Aed6cbFda4B
+0x176F65E9dcAeEbCBaC0580dcCe555ac5700Bc1cB
+0xF84f67833b110c50C0c39B61444c2aC87238a3DE
+0xB83557b34cd86DCfB8EB44cB6aa5a5B662acE83E-
+0xe51F6EE63f53AF9b3e8479f0A6b898695fBB2660
+0x4f75574B577bC8CC4A8bc20375E832c5f6f0FB07
+
+In this cluster in the ERC-20 network the same transactions and also protocol or look Scroll
+p.s Tx same , date different
+https://debank.com/profile/0x4f75574b577bc8cc4a8bc20375e832c5f6f0fb07/history?chain=eth
+https://debank.com/profile/0x176F65E9dcAeEbCBaC0580dcCe555ac5700Bc1cB/history?chain=eth
+https://debank.com/profile/0x3cc43ec7b369d09711736f6d031f0aed6cbfda4b/history?chain=eth
+
+NEXT cluster 19
+0x5C417EFC68118a955E6dD8488670F352C9f7F3eA
+0x9393388ae748C0be5713390a3789eE142Da6FEC8
+0x996ec81E9c47EC824951A53cb11f556AC95B77a1
+0xCA0fea9cE9C42bDCA838fE133E20B47851857eBB
+0x71C405D649E684eC9BFC45e5ac494D04B200ab77
+0xb6822cBc43B2d5C06b43C0e22D609305f32A92e8
+0x491d19894415c352b1B6F85c1f1F865f3dE08Dc6
+0x71c9c95C866F911D579db081E7e90810b5A9A5fa
+
+All same
+https://debank.com/profile/0x71c405d649e684ec9bfc45e5ac494d04b200ab77/history
+https://debank.com/profile/0x996ec81e9c47ec824951a53cb11f556ac95b77a1/history
+https://debank.com/profile/0x5c417efc68118a955e6dd8488670f352c9f7f3ea/history
+
+NEXT cluster 20
+0xb7965ACF1aFa23eAC9fEAb60C26d0A73C3f65f10
+0xF3C3873A43526a175DA0E383Bc491111c7c40164
+0xD17118644669dBdF8582B809Da978727662001E1
+0x8b2059D1064f5FbF522ed61a8E056DEDC6Ba1302
+0xf91eEC8bfd545693e2Cc89D6C6d65d1A0A2EF3c3
+0x88fcE12D5Cdb370B565b21C46482301A91d61Bc6
+0xaf74287075883dddF7e8b84B34FB0B3b0C3e526F
+0x838292895F77ca980F2692B9E8A8256ed0BB1535
+0xf58dFaD1C218Cf52B16A616Dd4d9d7c6d0e85Bf2
+
+all same for example I send arb but you can open scroll
+https://debank.com/profile/0xf91eec8bfd545693e2cc89d6c6d65d1a0a2ef3c3/history?chain=arb
+https://debank.com/profile/0xaf74287075883dddf7e8b84b34fb0b3b0c3e526f/history?chain=arb
+https://debank.com/profile/0xf58dfad1c218cf52b16a616dd4d9d7c6d0e85bf2/history?chain=arb
+https://debank.com/profile/0xf3c3873a43526a175da0e383bc491111c7c40164/history?chain=arb
+
+NEXT cluster 21
+0x4A692123F3713C89D34aA8a5ad926CE54C523377
+0x04D6e709A9eB0e7c04D515Fa73f37F2ef873E502
+0xDA8c052841C38974B69b3ABf99d891Ebd79D88f5
+0x524BD8cBBcc26F8837A558E9683e56712d0Adb01
+0x26A9BD296785E7b2A5A2c7D2D4c9DBf99E27f340
+0x086Cc43126119Fc26dA7FF039F7139Caf4F6Ddd4
+0x44Db66FC745D1ffc4b8eB4D68b613F9413dc10f1
+0x7EFea6Fea4b51e0dEA526b6E5212C741cf8180Da
+0x3346621cf8eF8A9512868C507449cc9F47043525
+0xD70688C8eF3F5599b6b53c697194C6CB25f61a7D
+0x6498F6CC59F64d01B841B2619F7692cfcdfdaa81
+0x28C8E24d5F0fAf41ce9E83769572DEC61bcb4BA2
+n this cluster in the ARB NOVA network the same transactions
+
+https://debank.com/profile/0xd70688c8ef3f5599b6b53c697194c6cb25f61a7d/history?chain=nova
+https://debank.com/profile/0xda8c052841c38974b69b3abf99d891ebd79d88f5/history?chain=nova
+https://debank.com/profile/0x44db66fc745d1ffc4b8eb4d68b613f9413dc10f1/history?chain=nova
+https://debank.com/profile/0x26a9bd296785e7b2a5a2c7d2d4c9dbf99e27f340/history?chain=nova
+
+NEXT cluster 22
+0xAc9A68e8966D659Fa63cFA3685F7C29Ac1857c25
+0xd195778F3E3059CE821e6c1D35953BCDBF0b7D38
+0x1c59175660e57B775611987A469A0Cba9a323F8E
+0xDd2dC77E6122dCa2f60F3A83408b6C37F34A22Ab
+0x82b39468d448d2a2869E8809F67C92280CC5BAd0
+0x952769Eb9827704Ebf09C1a1b427DE94d171E087
+0xcC9c03Eb4449335a4c3b72Abf27fFCc2831378EE
+0x3918a5Af5a82a3cB406CF8A8f36406A3207f895b
+0xdCDa540396E73B736bb0C045D8Ec51EfEb63b874
+0x8C4177893Ae5bc3D8C13AE947c1F83A97A7c7CF3
+0xa540c0E9F578298F0e4d2e107cBa559554E2698f
+0x11E427Ad13582B537a2311e9B75fdB7CA0Bb7c45
+0xf238B32b3913145b2Bc4277fC1f50A422e9c2880
+0x1C7144949101890E7307Ab66e8261C289826f8FD
+0x93Db81a7A94eAbb78D7335282756Ec772f677f54
+0x38b8fa19cf61b11449614350F437Bd37335D7E31
+
+in this cluster in the ARB network the same transactions and you can open ERC-20
+
+https://debank.com/profile/0x952769eb9827704ebf09c1a1b427de94d171e087/history?chain=arb
+https://debank.com/profile/0xdcda540396e73b736bb0c045d8ec51efeb63b874/history?chain=arb
+https://debank.com/profile/0xac9a68e8966d659fa63cfa3685f7c29ac1857c25/history?chain=arb
+
+NEXT cluster 23
+
+0xD74f4939b7D301aDBEf455Ad5B6A8454e1AAF1F9
+0xfce0DeA4F3f18e4A7f0C9c05321eCC23bB249728
+0x93bC565D94551eb63f6518e7e91C93357d6daF66
+0x9A6f2c7725039054fdC89EfBA4202D79800BBfC0
+0x09E043C9c9791d6Cb0cE84bFB3bb441F8905FCE5
+0xdeAc955940C6452cE809005723d90E97aA8a774F
+0x669e1fba0D79B4a71F29F71169041f7eb0e89948
+0x9132c8d3032171D1a4e0817a54d4d181ba46C101
+0x5b21EcF6094fC93Dd485d8a1cF9717A23F2C0694
+0x26D4825c8eA12Dce49FC6d43010114Ea3B92e590
+
+In this cluster in the LINEA network the same transactions and open pls KARAK| scroll
+https://debank.com/profile/0xfce0dea4f3f18e4a7f0c9c05321ecc23bb249728/history?chain=linea
+https://debank.com/profile/0x09e043c9c9791d6cb0ce84bfb3bb441f8905fce5/history?chain=linea
+https://debank.com/profile/0xd74f4939b7d301adbef455ad5b6a8454e1aaf1f9/history?chain=linea
+
+NEXT cluster 24
+0xe40c422Aa220Ef2005DCFe08dAeDc74E81dcB5d4
+0xE0B7f5daf833a610C80008554BeA00C10B66A959
+0x5A54704d380b0280d9f012D491891C54295Ad872
+0xa916dCE2ebFa1D86B19d056F628966F9AD9f1461
+0x6A01Be95Dc9c83C8bAc316669AE5f3B21e27e45E
+0x329e8bCa1215aA9CE87702d271F08E6a5A706812
+0x0B914BE3A03228ec2f01Fc1D29B494a0309dE2f3
+0x0FD75bd1450bf7b32967FD600311A7E82Aa6569C
+0xe40c422Aa220Ef2005DCFe08dAeDc74E81dcB5d4
+0xFfA95C8ea548C484e0C40D5E985237dB070d6211
+
+In this cluster in the ERC-20 network the same transactions
+Or you can look OP network
+https://debank.com/profile/0x329e8bCa1215aA9CE87702d271F08E6a5A706812/history?chain=eth
+https://debank.com/profile/0xa916dCE2ebFa1D86B19d056F628966F9AD9f1461/history?chain=eth
+https://debank.com/profile/0x0b914be3a03228ec2f01fc1d29b494a0309de2f3/history?chain=eth
+
+NEXT cluster 25
+0xce9B1363FD7920A038C668304cB5c4671A4eD0DB
+0x853e2f30A50a352Ef50Da288657Ba2e9a4cfA5fE
+0x4612081EE2A364C20aaf03EA92E389b121fe9C88,
+0xC57f83e180F3908c0c952809B515B9E3E4fF5287
+0xDe315Ba01Ef25F0679bFE1e8c6E6BbB16ed72b1D
+0x6d7D7e0Fc0594010aa302Fa1a8c18d654E4B4c38
+0x8E03E99B358b48f02415c56ab1d5d90E8FBa05C6
+0x257e3E42FAC80c39D712c5794280CeB9eC594A8C
+0xA4E871ff4391c7c6242486D5D54fF2bb24A0f044
+
+Same tx in ERC-20 or base (now buy nft in openSEA)
+https://debank.com/profile/0xce9b1363fd7920a038c668304cb5c4671a4ed0db/history?chain=eth
+https://debank.com/profile/0x8E03E99B358b48f02415c56ab1d5d90E8FBa05C6/history?chain=eth
+https://debank.com/profile/0x4612081EE2A364C20aaf03EA92E389b121fe9C88/history?chain=eth
+
+NEXT cluster 26
+0x3bb309680987E73924fd57C33576fe9cF875eE83
+0xB2b6aE32a76513c887D86D34b06c03f30066E8c1
+0x8EE1C8Ea25B3cadbD5DD552a4Cdc9Bcc2fFA4b04
+0xE24AB6B94B760DDbC6424A8786f805Afe740581B
+0xd3Cba77045b92E64fB4dE67243D9BDE1446179F7
+0x3bb309680987E73924fd57C33576fe9cF875eE83
+0x4c112f8CF7a4D46997129EC8186a9e02cdb069B5
+0xB2b6aE32a76513c887D86D34b06c03f30066E8c1
+0xD4d592065D8aB49D490D00DF98c217A1A323A4Fc
+0x04b1199054FDCed1934b5254Dd8672Fc16B84d8c
+0x64685f5E92d83f98B3e70e78A923A802EEFD843b
+0x4D793C18B11902675E7B6E53Ac9773c48c33e096
+0x4c112f8CF7a4D46997129EC8186a9e02cdb069B5
+
+Same tx in ERC-20 or arb nova
+https://debank.com/profile/0x64685f5e92d83f98b3e70e78a923a802eefd843b/history?chain=nova
+https://debank.com/profile/0xb2b6ae32a76513c887d86d34b06c03f30066e8c1/history?chain=nova
+https://debank.com/profile/0xd3cba77045b92e64fb4de67243d9bde1446179f7/history?chain=nova
+erc-20
+https://debank.com/profile/0xd3cba77045b92e64fb4de67243d9bde1446179f7/history?chain=eth
+https://debank.com/profile/0xb2b6ae32a76513c887d86d34b06c03f30066e8c1/history?chain=eth
+https://debank.com/profile/0x64685f5e92d83f98b3e70e78a923a802eefd843b/history?chain=eth
+
+NEXT cluster 27
+0x60abddB571Af83F0BD08aDB5541B3deD77c0f7fE
+0x8cEC30568e22FA9D77f053f990Ef35363c78EFf5
+0x030D5Ba949AbB2C0ED27EAAf4Dd53c4a25b00C4A
+0x05716D7A98c5Ea3D3B7e40dFF4D271A009676Ec0
+0xcb537e8339386BB966d35b99D9A6d21400F1DcdD
+0xFf210f2aC934779527105c59cA15E20AFFEbfE8e
+0x40c55AB556F5ccaB63247c9c832e45889E851ddc
+0xAC334d4d521375122decF0537630087a9b99295e
+0x457873e1D9eA8aFc5B02eD2FEe0f3Dc5d378a802
+0xE475A3D01D18D526d1BF71d48Cf82a0C4773C7Cc
+0xF0f5Eb8c19ECE5bbd50825A267db3c0953C50243
+0x089E482cB2C0CB23557b6cc9aBd574CBa8dd042d
+0xf41F1caDDCE638D6CB53096fDC4c959FBe7911Ac
+0x0468480731867306D237AEBcddFE20f7A626fAd4
+
+All tx same in ERC-20 and arb network
+https://debank.com/profile/0x40c55AB556F5ccaB63247c9c832e45889E851ddc/history?chain=eth
+https://debank.com/profile/0xE475A3D01D18D526d1BF71d48Cf82a0C4773C7Cc/history?chain=eth
+https://debank.com/profile/0xF0f5Eb8c19ECE5bbd50825A267db3c0953C50243/history?chain=eth
+
+NEXT cluster 28
+0xB48B2Df9f2fE6d2eEE65331c8F4aCD3C3Bd65006
+0xBc70505a26cE82248578bb3C939c4071AD68003C
+0xaacc32418738a199e5EA98B91Fe0274239822D4A
+0x0B367ab146E080B4a5C608EeC59691F1340fF3c4
+0x09D4119a212d679f7Fa3f8CD21066D61e1AdE475
+0xAFF875616630C2f6e4b433B934BefC65453834B3
+0xDB9d792D13Ed5A88972ad83b1A678f656378EC2C
+0x0B367ab146E080B4a5C608EeC59691F1340fF3c4
+
+Same tx in core network
+p.s
+It's definitely sibils, but I'm tired and can't look for evidence to debunk, so if there aren't enough links, just ignore them.
+or I'll add them later.
+https://debank.com/profile/0xaacc32418738a199e5ea98b91fe0274239822d4a/history?chain=core
+https://debank.com/profile/0xbc70505a26ce82248578bb3c939c4071ad68003c/history?chain=core
+https://debank.com/profile/0x0b367ab146e080b4a5c608eec59691f1340ff3c4/history?chain=core
+
+NEXT cluster 29
+0x32eB30CAe36e1c2E9271ca1c02DA64e5C27cB465
+0x512199f12a9A397904420E3F6C6b4eDFe633bC40
+0x83e66A4b25eabDC3c9E55d18e734Ebcd6888b0C7
+0x3a99f5DeF372B4887fE45aF2Cb5EF1Ffe9693B09
+0x11ECA63fE090a187d6ac470d77D5D8C6b9FC9cAf
+
+same tx in ERC-20 05.08 Nlur zorb nft +scroll bride
+https://debank.com/profile/0x83e66a4b25eabdc3c9e55d18e734ebcd6888b0c7/history?chain=eth
+https://debank.com/profile/0x512199f12a9a397904420e3f6c6b4edfe633bc40/history?chain=eth
+https://debank.com/profile/0x32eb30cae36e1c2e9271ca1c02da64e5c27cb465/history?chain=eth
+
+NEXT cluster 30
+0x00b3f57bfa146FD82558f523a3bffa0AA0055C70
+0x53d6469dE70DD0a149ee2fE7c4C80B70d9D9Aa89
+0xF664Cd12B4a6c39eCF0C2E85047ecCF874A7c5d8
+0x656Eed50FF27236834ad60527EDca5e99b63408a
+0x62d6dDCCCDCEf5d4187c0841E6D4Af66c4331Da2
+0xA351eBA13e45cD7e3A5f39cB38FefC4c0f0920fA
+0x26121055749c2E6e2bA5B5cdc1CC158AD348BFc7
+0xde6F1Cc1d2c9e6B80f7Ff86118751CA2c35DFEf1
+0x6dB695Be399056EfB75FDFfd6AF9DE000388aEDB
+0xBB9dBe9AD8de3c0666c217e9694DE18089133Ce5
+
+All same
+https://debank.com/profile/0xde6f1cc1d2c9e6b80f7ff86118751ca2c35dfef1/history?chain=op
+https://debank.com/profile/0x62d6ddcccdcef5d4187c0841e6d4af66c4331da2/history?chain=op
+https://debank.com/profile/0xf664cd12b4a6c39ecf0c2e85047eccf874a7c5d8/history?chain=op
+
+NEXT cluster 31
+0x48eccf07f0e62b44cd208bc08df820ea6dd99016
+0x7a2b68b04a159ab2c0962e8df208f0b37a672dca
+0x0644a523012128b5389b96a75f69d0b5ab54024e
+0x3b463490913b3c7eb0c92c70430ef2398b6b1214
+0xe961b10544ccac23b6c87a411473bfb3716d3202
+0x817ee3c03ec9b1a541e41036ad11e1481dfbdf22
+0x42633f97e48442ba2738d5e7e87148537070c32d
+
+All same in avsx
+https://debank.com/profile/0x48eccf07f0e62b44cd208bc08df820ea6dd99016/history?chain=avax
+https://debank.com/profile/0x0644a523012128b5389b96a75f69d0b5ab54024e/history?chain=avax
+https://debank.com/profile/0x48eccf07f0e62b44cd208bc08df820ea6dd99016/history?chain=avax
+.
+
+NEXT cluster 31
+0x020302EBFDa497A4708d183B2431110372bf37E3
+0x6d0B7c33ac7C0ABEeE370d41C97E6665f8088c49
+0x7AA5d8e96532ECC8056942B21F155407120137b8
+0x034E45b7b90895E5ac283fd9fC608A1C76c380D6
+0x5BE96d322A3527D8139a2988d563F1611dEd2CE1
+0x198d2743a19D62d7Eb992eF20C3Baa54e708b487
+0x3B9146149ad0ACF10179122901eC2C05A004203F
+0x8Ba3e9595ED1C549332f38EB5f923302054DF3a6
+
+Same tx in arb nova
+https://debank.com/profile/0x020302ebfda497a4708d183b2431110372bf37e3/history?chain=nova
+https://debank.com/profile/0x8ba3e9595ed1c549332f38eb5f923302054df3a6/history?chain=nova
+https://debank.com/profile/0x198d2743a19d62d7eb992ef20c3baa54e708b487/history?chain=nova
+
+NEXT cluster 32
+0xF08Df0a48C9177964c3de213DD19A70311d9E6E6
+0x7B0f0313fEB5B9f8685E366D6E872A0cF11B580E
+0x9F6A7133c5D280EC6e30aC9f679e8C2C80DD9634
+0x8C920A74A7d96FdcCdaB7eA116ab5588AA135921
+
+Same tx in polygonZKEVM
+https://debank.com/profile/0x9f6a7133c5d280ec6e30ac9f679e8c2c80dd9634/history?chain=pze
+https://debank.com/profile/0x9f6a7133c5d280ec6e30ac9f679e8c2c80dd9634/history?chain=pze
+https://debank.com/profile/0x7b0f0313feb5b9f8685e366d6e872a0cf11b580e/history?chain=pze
+
+NEXT cluster 33
+0x12121F6A092ae703b213d5f7770a9058a00b8546
+0x9BdacF56ecf02bb0F1484f6647557CEd3111DA47
+0xe1936F754C7115B98b6E01682A2c193BA7b047a6
+0xe12DAfFAEDdC14F7ECB0CaA08D58db92A07A073d
+0x3dD551b6fEB416fC555E8C8599D09eE5001EcFBb
+
+Same tx in scroll
+https://debank.com/profile/0x12121f6a092ae703b213d5f7770a9058a00b8546/history?chain=scrl
+https://debank.com/profile/0x9bdacf56ecf02bb0f1484f6647557ced3111da47/history?chain=scrl
+https://debank.com/profile/0xe12daffaeddc14f7ecb0caa08d58db92a07a073d/history?chain=scrl
+
+NEXT cluster 34
+0x88da56fcefe3d97f04945cadce2944b239592745
+0x420fc858103a9803c6681a1179b524347b16d2c3
+0xed9f5c9b797cdd09fb0df10092b073625de92ad9
+0x4eb81B542E6c43d4e97304A2a3c05CEe7F94f882
+
+same tx in core bride
+https://debank.com/profile/0x4eb81b542e6c43d4e97304a2a3c05cee7f94f882/history?chain=core
+https://debank.com/profile/0x420fc858103a9803c6681a1179b524347b16d2c3/history?chain=core
+https://debank.com/profile/0x88da56fcefe3d97f04945cadce2944b239592745/history?chain=core
+
+last cluster
+0x5653B7D63bD69dbdCFec1C53f08e8Bd160ad7fE4
+0xdC97c176D5d75BcbC0Cc258872BFABE99B5ef61C
+0xBF26b8B111A53e3B51ebD71d0bB2222053c354E0
+0x9d30Bd1224E480f5Ac662BD9Fff1BD147E1DD508
+same tx in erc -20
+
+https://debank.com/profile/0xbf26b8b111a53e3b51ebd71d0bb2222053c354e0/history?chain=eth
+https://debank.com/profile/0xdc97c176d5d75bcbc0cc258872bfabe99b5ef61c/history?chain=eth
+https://debank.com/profile/0x5653b7d63bd69dbdcfec1c53f08e8bd160ad7fe4/history?chain=eth
+
+and this
+0x9e4f8a1003fe4a2bfeff6bcc0fa18261639b0cba
+0x173863cf3befe457cf248857b673402beb82fcdf
+0xc84cc9efc1f38817ed9efe520b8ed5f37aeae000
+0x2fa4e80b8d39f29f5ea746bad3c1840fb56cf47b
+0xbd45d1d8f66616158e3051f0f2821fc240c4a0fb
+0x4d602037a72e5db6b5f0156721ebeb3bedaa3c06
+0x586395f597a19f7476f77b481a0958ac43254c79
+0x4ae488d14ff5622ca5ab1df32a8c26e775d4a7d3
+This 100% Sybil but I don't have much evidence, so it's up to you.
+https://debank.com/profile/0x2fa4e80b8d39f29f5ea746bad3c1840fb56cf47b/history?chain=nova
+https://debank.com/profile/0x173863cf3befe457cf248857b673402beb82fcdf/history?chain=nova
+
+Description
+Detailed Methodology & Walkthrough
+All these wallets were found by manually checking the scanner.
+then I opened each wallet through Debank and checked for the same transactions. Before each cluster there will be a description of which networks you should look at to make sure it's a sybil. All the addresses I send transactions are the same, the amounts are the same, the time is the same, the protocols are the same.
+There are clusters where everything is identical and there are clusters where some networks are different but the less popular ones such as ARB NOVA, ERC-20, MoonBEAM, HARMONY, OP, ARB are all identical or 95%+.
+For your convenience I will send below part of the links from the cluster to Debank that you can easily open and look, and then you can check each address as well.
+
+Reward Address (If Eligible)
+0x340bdb2D1eCCC94c09be2aafcb0D50b3bA99eB19
